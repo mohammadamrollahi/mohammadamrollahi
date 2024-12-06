@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadamrollahi](https://github.com/mohammadamrollahi)
 
-- 💬 Ask me about **React,Next,Redux,Zustand**
+- 💬 Ask me about **Javascript,Typescript,React,Next,Redux,Zustand**
 
 - 📫 How to reach me **mohammadamrollahi3@gmail.com**
 
